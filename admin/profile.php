@@ -7,7 +7,8 @@
 <body>
     <?php require_once('connect.php');
         require_once('functions.php');
-        require_once('title_bar.php'); ?>
+        require_once('title_bar.php'); 
+    ?>
     
     <h3> Profile - Admin panel system </h3>
 

@@ -6,7 +6,8 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
 </head>
 <body>
-    <?php require_once('connect.php');
+    <?php 
+        require_once('connect.php');
         require_once('functions.php');
         require_once('title_bar.php'); ?>
     
@@ -45,6 +46,5 @@
                 echo ("Select Option");
             }
         ?>
-
 </body>
 </html>
